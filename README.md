@@ -1,4 +1,4 @@
-# Ruby Puppet Module for Boxen
+# GVM Puppet Module for Boxen
 
 [![Build Status](https://travis-ci.org/Spantree/puppet-gvm.png?branch=master)](https://travis-ci.org/Spantree/puppet-gvm)
 
